@@ -13,4 +13,4 @@ This repository provides the basic source code of the investigation on the graph
 - Hung Nguyen-Xuan
 
 # References
-...
+K. Q. Tran, T.-D. Hoang, H. Nguyen-Xuan, Three novel computational modeling frameworks of 3d-printed graphene platelets reinforced functionally graded triply periodic minimal surface (GPLR-FG-TPMS) plates, Applied Mathematical Modelling (2023, Revision)
