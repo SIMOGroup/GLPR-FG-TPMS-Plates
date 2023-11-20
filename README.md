@@ -1,4 +1,4 @@
-# GLPR-FG-TPMS-Plates
+# GPLR-FG-TPMS-Plates
 This repository provides the basic source code of the investigation on the graphene platelets reinforced funtionally graded triply periodic minimal surface (GPLR-FG-TPMS) plates with the following features:
 - Three novel functional grading frameworks for porous plates (mass density, elastic modulus, and shear modulus controlling frameworks);
 - Three porosity distributions (symmetric, asymmetric, and uniform) in combination with three GPL volume fraction distributions (symmetric, asymmetric, and uniform);
